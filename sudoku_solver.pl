@@ -1,11 +1,3 @@
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-%           TP Logique              %
-%        Pierre-Yves Péneau         %
-%          Armel Mangean            %
-%         Guillaume Charon          %
-%    Licence 3 Info Groupe 502B     %
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-
 
 % Inclusion de librairie pour la réduction des domaines de recherches
 :- use_module(library('clp/bounds')).
